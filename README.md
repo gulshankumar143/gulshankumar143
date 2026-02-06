@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
 ---
@@ -40,7 +41,19 @@
 
 🔹 **[GitHub Profile Explorer](https://github.com/gulshankumar143?tab=repositories)**  
 *MERN Stack | Java*  
-> Explore GitHub profiles & repos with real-time like/view system  
+> Explore GitHub profiles & repos with real-time like/view system
+
+🔹 **[GitHub Profile Explorer](https://github.com/gulshankumar143/MP3-Music-Player)**  
+*HTML | CSS | JavaScript*  
+> A modern, React-based web application designed to deliver a seamless and enjoyable music listening experience directly in your browser.
+
+🔹 **[GitHub Profile Explorer](https://github.com/gulshankumar143/Employee-Management-System)**  
+*Java SE (Swing, AWT) | MySQL | JDBC*  
+> A Java Swing-based desktop application that allows organizations to manage employee records efficiently.
+
+🔹 **[GitHub Profile Explorer](https://github.com/gulshankumar143/Notes-App)**  
+*MERN Stack | Axios | dotenv*  
+> A web application designed to help users create, manage, and organize their notes.
 
 ---
 
