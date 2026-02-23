@@ -39,6 +39,16 @@
 
 # 🚀 Featured Projects  
 
+🔹 **[Gulshan_Portfolio](https://github.com/gulshankumar143/Gulshan_Portfolio)**  
+*HTML | CSS | JS*  
+> Welcome to my personal portfolio website! <br>
+> 👉[View Portfolio](https://gulshan-portfolio-one.vercel.app/)
+
+🔹 **[User Management](https://github.com/gulshankumar143/User_Management)**  
+*Node.js | MySQL*  
+> Node.js application for managing users with a SQL database. <br>
+> The app uses Express.js for the server, EJS for templating, and a SQL database for data storage.
+
 🔹 **[GitHub Profile Explorer](https://github.com/gulshankumar143?tab=repositories)**  
 *MERN Stack | Java*  
 > Explore GitHub profiles & repos with real-time like/view system
