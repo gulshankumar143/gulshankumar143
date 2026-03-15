@@ -44,6 +44,13 @@
 > Welcome to my personal portfolio website! <br>
 > 👉[View Portfolio](https://gulshan-portfolio-one.vercel.app/)
 
+🔹 **[HomiStay](https://github.com/gulshankumar143/HomiStay)**<br>
+*Node.js | Express.js | MongoDB | EJS | CSS3* 
+
+> A full-stack homestay booking and review platform inspired by Airbnb.  
+> Features secure user authentication, property listing management, review system, and responsive UI.<br>
+> 👉 [Live Demo](https://homistay-leme.onrender.com/listings)
+
 🔹 **[User Management](https://github.com/gulshankumar143/User_Management)**  
 *Node.js | MySQL*  
 > Node.js application for managing users with a SQL database. <br>
