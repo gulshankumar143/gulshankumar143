@@ -16,7 +16,7 @@
 
 - 🎓 B.Tech CSE student at **IEC College of Engineering & Technology, Gr. Noida**  
 - 💻 Currently working on **Full-Stack Projects, Realtime Systems, and Java**  
-- 📈 Solved **250+ DSA problems** on [LeetCode](https://leetcode.com/u/gulshankumar66/) & [GFG](https://www.geeksforgeeks.org/profile/gulshankumar66?tab=overview)
+- 📈 Solved **350+ DSA problems** on [LeetCode](https://leetcode.com/u/gulshankumar66/) & [GFG](https://www.geeksforgeeks.org/profile/gulshankumar66?tab=overview)
 - 🌱 I’m currently learning **DSA & Web Designing**
 - 🎯 Goal: To contribute to **impactful open-source projects** and build **products at scale**  
 
